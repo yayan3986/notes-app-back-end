@@ -1,0 +1,4 @@
+klik kanan di folder ini, buka cmd, kemudian ketikkan command berikut :
+
+ssh -i "notes-api-webserver.pem" ubuntu@ec2-3-0-91-65.ap-southeast-1.compute.amazonaws.com
+
